@@ -2,12 +2,13 @@
   "pages": [
     [
       {
-        "id": "sys-settings",
-        "type": "system",
-        "name": "设置",
-        "color": "gray",
+        "id": "widget-search",
+        "type": "widget",
+        "name": "搜索栏",
+        "color": "blue",
+        "widgetType": "search",
         "page": 0,
-        "row": 2,
+        "row": 1,
         "col": 0
       },
       {
@@ -17,17 +18,16 @@
         "color": "blue",
         "page": 0,
         "row": 2,
-        "col": 1
+        "col": 0
       },
       {
-        "id": "widget-search",
-        "type": "widget",
-        "name": "搜索栏",
-        "color": "blue",
-        "widgetType": "search",
+        "id": "sys-settings",
+        "type": "system",
+        "name": "设置",
+        "color": "gray",
         "page": 0,
-        "row": 1,
-        "col": 0
+        "row": 2,
+        "col": 1
       },
       {
         "id": "sys-sync",
@@ -39,6 +39,50 @@
         "col": 2
       },
       {
+        "type": "app",
+        "name": "秒哒",
+        "url": "https://www.miaoda.cn/projects/app-ctg0jdeaugap",
+        "iconUrl": "https://resource-static.cdn.bcebos.com/img/favicon.png",
+        "color": "blue",
+        "id": "id_1783736120396_if5yd3",
+        "page": 0,
+        "row": 2,
+        "col": 3
+      },
+      {
+        "type": "app",
+        "name": "Yesicon",
+        "url": "https://yesicon.app/",
+        "iconUrl": "https://yesicon.app/favicon-32x32.png",
+        "color": "blue",
+        "id": "id_1783736146762_m0ybnu",
+        "page": 0,
+        "row": 3,
+        "col": 0
+      },
+      {
+        "type": "app",
+        "name": "开源应用商店",
+        "url": "https://qq5855144.github.io/App-Search/home",
+        "iconUrl": "https://qq5855144.github.io/App-Search/favicon.ico",
+        "color": "blue",
+        "id": "id_1783736905146_y5br7g",
+        "page": 0,
+        "row": 3,
+        "col": 1
+      },
+      {
+        "type": "app",
+        "name": "5855144",
+        "url": "https://scriptcat.org/zh-CN/users/181254",
+        "iconUrl": "https://scriptcat.org/favicon.ico?favicon.12.kxvew6xulu.ico",
+        "color": "blue",
+        "id": "id_1783737144240_sxuo4y",
+        "page": 0,
+        "row": 3,
+        "col": 2
+      },
+      {
         "id": "widget-clock",
         "type": "widget",
         "name": "时钟",
@@ -47,17 +91,6 @@
         "page": 0,
         "row": 0,
         "col": 0
-      },
-      {
-        "type": "app",
-        "name": "Pixabay",
-        "url": "https://pixabay.com/",
-        "iconUrl": "https://favicon.im/pixabay.com",
-        "color": "blue",
-        "id": "id_1783662474022_k7zb2v",
-        "page": 0,
-        "row": 2,
-        "col": 3
       }
     ]
   ],

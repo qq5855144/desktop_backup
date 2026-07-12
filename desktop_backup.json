@@ -100,6 +100,17 @@
             "page": 0,
             "row": 3,
             "col": 2
+          },
+          {
+            "name": "Crx搜搜",
+            "url": "https://www.crxsoso.com/",
+            "iconUrl": "https://www.crxsoso.com/favicon-32x32.png",
+            "type": "app",
+            "color": "blue",
+            "id": "id_1783865377955_ukovwx",
+            "page": 0,
+            "row": 3,
+            "col": 0
           }
         ]
       }
